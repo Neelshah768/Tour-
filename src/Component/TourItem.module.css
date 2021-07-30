@@ -1,0 +1,41 @@
+.tour {
+  width: 90%;
+  max-width: 500px;
+  margin: 50px auto;
+  border-radius: 15px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+}
+.tour img {
+  height: 400px;
+  max-width: 500px;
+  width: 100%;
+  border-radius: 15px;
+}
+.description {
+  margin: 20px;
+  
+}
+.name {
+  display: inline;
+  font-size: 20px;
+  font-family: "Ubuntu", sans-serif;
+}
+.price {
+    
+  margin-left: 160px;
+  color: red;
+  font-weight: bold;
+  background-color: rgb(238, 190, 190);
+  border: 1px solid rgb(238, 190, 190);
+  border-radius: 5px;
+  padding: 5px;
+}
+.info{
+    margin-top: 30px;
+    font-family: sans-serif;
+}
+.tour button{
+  
+  margin: 2px;
+  padding: 5px 10px;
+}
